@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">West Java Foods</string>
+    <string name="food_name">Food Name</string>
+    <string name="city">City</string>
+    <string name="about">About</string>
+    <string name="email">email</string>
+    <string name="name">name</string>
+    <string name="detail">Detail:</string>
+    <string name="detail_desc">Detail Desc</string>
+</resources>
